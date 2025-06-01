@@ -1,13 +1,13 @@
-package com.notesorganizer.note.note_service;
+package com.notesorganizer.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NoteServiceApplication {
+public class CommonLibApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NoteServiceApplication.class, args);
+		SpringApplication.run(CommonLibApplication.class, args);
 	}
 
 }

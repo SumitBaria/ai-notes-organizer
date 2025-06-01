@@ -1,0 +1,29 @@
+Week,Task,Status
+Week 1,"Backend project scaffolding (`note-service`, `auth-service`, `ai-service`)",Not Started
+Week 1,Spring Security JWT setup (Auth Service),Not Started
+Week 1,Spring Gateway routing + Eureka client setup,Not Started
+Week 1,React.js project with routing & auth pages,Not Started
+Week 1,"MySQL DB schema for `users`, `notes`",Not Started
+Week 2,Auth Controller: Register/Login with JWT,Not Started
+Week 2,React: Login/Register UI,Not Started
+Week 2,Secure Gateway using JWT (relay tokens),Not Started
+Week 2,Notes CRUD endpoints in `note-service`,Not Started
+Week 2,Notes listing + create form in React,Not Started
+Week 3,Setup `ai-service` using Spring AI (OpenAI or local model),Not Started
+Week 3,POST /summarize endpoint in `ai-service`,Not Started
+Week 3,Frontend: Add 'Summarize' button per note,Not Started
+Week 3,Display summary in UI,Not Started
+Week 4,"Endpoint for image upload (note ID, `MultipartFile`)",Not Started
+Week 4,Store in Cloudinary / local / S3,Not Started
+Week 4,Save image URLs in DB,Not Started
+Week 4,React: Upload + show images under notes,Not Started
+Week 4,(Optional) OCR integration to extract image text,Not Started
+Week 5,Add search bar (filter notes),Not Started
+Week 5,Tagging system (basic),Not Started
+Week 5,Responsive UI,Not Started
+Week 5,Frontend error handling,Not Started
+Week 6,Write unit & integration tests,Not Started
+Week 6,Dockerize all services,Not Started
+Week 6,Set up Docker Compose,Not Started
+Week 6,Deploy to Render/Fly.io/EC2 (free-tier),Not Started
+Week 6,Monitor and test end-to-end,Not Started

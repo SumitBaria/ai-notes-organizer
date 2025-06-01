@@ -1,1 +1,4 @@
 rootProject.name = 'note-service'
+
+// Tell Gradle to include an external project as a build
+includeBuild('../common-lib')  // Adjust path based on actual location

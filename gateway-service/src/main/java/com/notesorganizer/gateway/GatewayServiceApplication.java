@@ -1,4 +1,4 @@
-package com.notesorganizer.gateway.gateway_service;
+package com.notesorganizer.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
